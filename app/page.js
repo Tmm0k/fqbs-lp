@@ -3,6 +3,7 @@ import Topbar from '@/app/components/Topbar';
 import Hero from '@/app/partials/Hero';
 import FilaquinDetails from '@/app/components/FilaquinDetails';
 import VetExclusive from '@/app/components/VetExclusive';
+import FilaquinSteps from '@/app/components/FilaquinSteps';
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
         <Hero />
         <FilaquinDetails />
         <VetExclusive />
+        <FilaquinSteps />
       </main>
     </>
   );
