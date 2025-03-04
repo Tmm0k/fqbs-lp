@@ -22,7 +22,7 @@ export default function Hero() {
                     <div className="relative h-[340px] sm:h-[380px]">
                         <div className="absolute right-0 -top-20 sm:-top-30 w-[75%] sm:w-[60%]">
                             <Image
-                                src="/dog-hero-mb.webp"
+                                src="/dogb-x-mb.webp"
                                 alt="Hero Dog"
                                 width={400}
                                 height={350}
