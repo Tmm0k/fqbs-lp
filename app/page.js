@@ -4,6 +4,7 @@ import Hero from '@/app/partials/Hero';
 import FilaquinDetails from '@/app/components/FilaquinDetails';
 import VetExclusive from '@/app/components/VetExclusive';
 import FilaquinSteps from '@/app/components/FilaquinSteps';
+import NmxUnmatched from '@/app/components/NmxUnmatched';
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
         <FilaquinDetails />
         <VetExclusive />
         <FilaquinSteps />
+        <NmxUnmatched />
       </main>
     </>
   );
